@@ -20,3 +20,9 @@ A tool (Python script) that will check our program for errors by executing it an
 #### Example
 > mark-desktop:/path/toScript$ python CPP /place/with/the/file.cpp
 
+
+
+## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/scroll_1f4dc.png" width="25" height="25"/> License
+This software is open source, licensed under the [MIT License](https://github.com/mukeshgupta7/StackUnderflow/blob/main/LICENSE%2Ctxt).
+
+
